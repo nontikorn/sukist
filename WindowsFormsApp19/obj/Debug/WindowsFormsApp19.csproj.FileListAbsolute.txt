@@ -1,0 +1,11 @@
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe.config
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.exe
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\bin\Debug\WindowsFormsApp19.pdb
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form1.resources
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Form2.resources
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.Properties.Resources.resources
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.GenerateResource.Cache
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.exe
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.pdb
+c:\users\user\source\repos\WindowsFormsApp19\WindowsFormsApp19\obj\Debug\WindowsFormsApp19.csprojResolveAssemblyReference.cache
